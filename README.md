@@ -16,12 +16,20 @@ A simple java swing gui that allows you to connect to jaero C channels remotely
 
 ## How to build it
 
-The easiest way to build it is to install a java jdk (1.8 recommended) and install maven (https://maven.apache.org/install.html)
+The easiest way to build it is to install a java JDK (1.8 recommended) and install maven (https://maven.apache.org/install.html)
 run "mvn package" to build the jar file with dependencies. Modify the included bat file to point to your java JDK
 and it should work. You will need to download a recent basestation.sqb and standingdata.sqb to be able to see aircraft
 types and to use the "mil" only properties file option. A sample properties file is included, modify it to suite
 your needs. It has some details on the various keys. Note that the ZMQ topic is hardcoded to JAERO in this client. Make
 sure you use the same topic in each jaero instance (check there are no spaces before or after the topic name in jaero)
+
+Link for standingdata database:
+https://www.virtualradarserver.co.uk/FlightRoutes.aspx
+
+Links for basestation database:
+https://jetvision.de/resources/sqb_databases/basestation.zip
+https://data.flightairmap.com/data/basestation/BaseStation.sqb.zip
+http://www.virtualradarserver.co.uk/Files/BaseStation.zip
 
 Right clicking on a line that shows a hex number should open a browser window on adsbexchange.com for that hex
 
