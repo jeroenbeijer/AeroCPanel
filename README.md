@@ -20,7 +20,8 @@ The easiest way to build it is to install a java jdk (1.8 recommended) and insta
 run "mvn package" to build the jar file with dependencies. Modify the included bat file to point to your java JDK
 and it should work. You will need to download a recent basestation.sqb and standingdata.sqb to be able to see aircraft
 types and to use the "mil" only properties file option. A sample properties file is included, modify it to suite
-your needs.
+your needs. It has some details on the various keys. Note that the ZMQ topic is hardcoded to JAERO in this client. Make
+sure you use the same topic in each jaero instance (check there are no spaces before or after the topic name in jaero)
 
 Right clicking on a line that shows a hex number should open a browser window on adsbexchange.com for that hex
 
