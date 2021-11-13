@@ -25,7 +25,7 @@ sure you use the same topic in each jaero instance (check there are no spaces be
 
 Link for standingdata database:
 
-https://www.virtualradarserver.co.uk/FlightRoutes.aspx
+https://www.virtualradarserver.co.uk/Files/StandingData.sqb.gz
 
 Links for basestation database:
 
