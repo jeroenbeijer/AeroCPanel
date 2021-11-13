@@ -28,7 +28,9 @@ https://www.virtualradarserver.co.uk/FlightRoutes.aspx
 
 Links for basestation database:
 https://jetvision.de/resources/sqb_databases/basestation.zip
+
 https://data.flightairmap.com/data/basestation/BaseStation.sqb.zip
+
 http://www.virtualradarserver.co.uk/Files/BaseStation.zip
 
 Right clicking on a line that shows a hex number should open a browser window on adsbexchange.com for that hex
