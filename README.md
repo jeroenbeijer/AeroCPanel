@@ -24,9 +24,11 @@ your needs. It has some details on the various keys. Note that the ZMQ topic is 
 sure you use the same topic in each jaero instance (check there are no spaces before or after the topic name in jaero)
 
 Link for standingdata database:
+
 https://www.virtualradarserver.co.uk/FlightRoutes.aspx
 
 Links for basestation database:
+
 https://jetvision.de/resources/sqb_databases/basestation.zip
 
 https://data.flightairmap.com/data/basestation/BaseStation.sqb.zip
